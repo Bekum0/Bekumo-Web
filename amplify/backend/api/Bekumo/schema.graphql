@@ -1,0 +1,6 @@
+type Database @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  username: String!
+  password: String!
+}
+ 

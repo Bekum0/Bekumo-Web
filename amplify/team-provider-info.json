@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-bekumo-staging-171902-authRole",
+      "UnauthRoleArn": "arn:aws:iam::164135473210:role/amplify-bekumo-staging-171902-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::164135473210:role/amplify-bekumo-staging-171902-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-bekumo-staging-171902-deployment",
+      "UnauthRoleName": "amplify-bekumo-staging-171902-unauthRole",
+      "StackName": "amplify-bekumo-staging-171902",
+      "StackId": "arn:aws:cloudformation:eu-central-1:164135473210:stack/amplify-bekumo-staging-171902/bfd1afa0-73f7-11ed-a348-02b36440ed54",
+      "AmplifyAppId": "d19iujyckvb0tk"
+    }
+  }
+}
